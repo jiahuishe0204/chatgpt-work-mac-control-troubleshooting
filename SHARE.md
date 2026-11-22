@@ -4,7 +4,8 @@ Mac 上装了 ChatGPT 桌面版，也开了电脑操控权限，部分 Work 会�
 
 我在 Mac 接入的会话里实际操作了 Safari 页面导航，并检查了 Firefox 中的 GitHub 登录状态，确认本次会话能控制这两个本机浏览器。单次读取本机文件并不能证明桌面控制已连通。
 
-已验证：本次会话连接 Mac，Safari 和 Firefox 操作成功。待确认：Work 发送按钮变灰的直接原因；`respect_system_proxy = true` 是否解决问题（**因果未证实**）。
+
+用户已确认此前的 Work 问题已解决；本次实测确认当前会话连接 Mac，Safari 和 Firefox 操作成功，但没有隔离此前故障的具体根因。待确认：Work 发送按钮变灰的直接原因；`respect_system_proxy = true` 的因果作用未证实。
 
 把一次真实故障排查整理成别人能复用的步骤，是我实践 AI-native 工作方式的一部分。
 
